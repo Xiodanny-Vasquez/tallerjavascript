@@ -1,3 +1,5 @@
+// Crea una función llamada “suma” que tome dos números como parámetros y retorne su suma.
+
 function suma(numero1, numero2){
 let resultado;
 resultado = numero1 + numero2;
